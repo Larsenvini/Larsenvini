@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Larsenvini
 - 👀 I’m interested in computer science, programming, automotive tech, cybersecurity, AI, Web 3. 
-- 🌱 I’m currently learning powershell, pentest, python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cybersecurity projects, web development in the backend field.
 - 📫 How to reach me: send me a message :)
 - 😄 Pronouns: him
