@@ -15,10 +15,10 @@
 
 ## Entre em contato / Contact me
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larsenvinicius8@gmail.com)
-##larsenvinicius8@gmail.com
+## larsenvinicius8@gmail.com
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinilarsen/) 
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5521967743010)
-##21967743010
+## 21967743010
 
 ## Outras redes / Other socials
 
